@@ -245,9 +245,4 @@ pemblokiran berlaku untuk flashdisk yang sudah terpasang sebelum perlindungan
 menyala (mungkin perlu dicabut dan dicolok ulang), apakah sandi Windows bisa
 diverifikasi pada akunmu, dan apakah `auto-on` benar-benar berjalan setelah login.
 
-## Rencana pengembangan
 
-- [ ] Mendeteksi tipe drive (removable) dengan `GetDriveTypeW` supaya benar-benar khusus USB
-- [ ] Mendeteksi perangkat USB lewat event Windows, termasuk HP (MTP) dan keyboard
-- [ ] Opsi untuk menonaktifkan penyimpanan USB sepenuhnya, bukan hanya-baca
-- [ ] Menyimpan waktu jeda sandi dengan sumber waktu yang lebih sulit diakali
