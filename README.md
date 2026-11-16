@@ -13,9 +13,7 @@ threading, penyimpanan sandi sebagai hash, dan pembatasan percobaan sandi.
 > sistem. Gunakan hanya di komputer milik sendiri. Baca bagian
 > [Batasan](#batasan) sebelum mengandalkannya.
 
-## Screenshot
 
-![Layar alarm](screenshot.png)
 
 ## Perintah
 
